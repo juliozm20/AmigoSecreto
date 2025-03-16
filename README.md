@@ -16,4 +16,4 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón **"Adi
     
 - **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-![[Pasted image 20250315184941.png]]
+![[[Pasted image 20250315184941.png](https://github.com/juliozm20/AmigoSecreto/blob/main/amigo_secreto.png)]]
